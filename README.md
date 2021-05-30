@@ -1,7 +1,8 @@
 # Whitesymex
 [![Build Status](https://github.com/umutoztunc/whitesymex/workflows/build/badge.svg)](https://github.com/umutoztunc/whitesymex/actions)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![PyPI](https://img.shields.io/pypi/v/whitesymex)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/whitesymex)](https://pypi.org/project/whitesymex)
+[![PyPI](https://img.shields.io/pypi/v/whitesymex)](https://pypi.org/project/whitesymex)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 
