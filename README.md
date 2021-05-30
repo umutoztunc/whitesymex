@@ -57,7 +57,7 @@ state = State.create_entry_state(instructions)
 path_group = PathGroup(state)
 path_group.explore(find=b"Correct!", avoid=b"Nope.")
 password = path_group.found[0].concretize()
-print(password.encode())
+print(password.decode())
 # p4ssw0rd
 ```
 
