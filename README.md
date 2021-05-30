@@ -1,5 +1,6 @@
 # Whitesymex
 [![Build Status](https://github.com/umutoztunc/whitesymex/workflows/build/badge.svg)](https://github.com/umutoztunc/whitesymex/actions)
+[![Documentation Status](https://readthedocs.org/projects/whitesymex/badge/?version=latest)](https://whitesymex.readthedocs.io/en/latest/?badge=latest)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/whitesymex)](https://pypi.org/project/whitesymex)
 [![PyPI](https://img.shields.io/pypi/v/whitesymex)](https://pypi.org/project/whitesymex)
@@ -104,3 +105,6 @@ flag = path_group.found[0].concretize(symflag)
 print("xctf{%s}" % flag)
 # xctf{Wh1t3sym3x!?}
 ```
+
+## Documentation
+The documentation is available at [whitesymex.readthedocs.io](//whitesymex.readthedocs.io).
